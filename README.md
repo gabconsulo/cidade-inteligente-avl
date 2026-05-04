@@ -15,7 +15,7 @@ Cada evento tem:
 - regiao da cidade
 - status do evento
 
-## Guia rapido para o professor
+## Guia rapido
 
 Se quiser olhar o projeto de forma mais rapida, a ordem mais facil e esta:
 
@@ -101,5 +101,5 @@ No cadastro, o usuario informa:
 
 ## Observacao
 
-As capturas de teste e os exemplos de execucao podem ser colocados no
+As capturas de teste e os estao em
 `RELATORIO_TECNICO.md`.
